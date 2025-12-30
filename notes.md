@@ -1,4 +1,4 @@
 
-update notes
-52rpOLH9waRyMFkHSD4dlX5GKCXOYu
-2020-01-21T08:05:51Z
+minor cleanup
+GNP6BQhzztV4kZciDHUSoCQko3ESoS
+2020-01-21T22:52:20Z
